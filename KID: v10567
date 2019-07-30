@@ -1,0 +1,14 @@
+Scenario:  Outlook offline
+
+User story: As a user, I am able to have access to outlook, so I can access my mailBox
+
+Description:  The users outlook is offLIne and in his packages the user only have the Application Power BI
+
+
+Title: Expired License
+
+Basic flow:
+	1. The user called in request help to access Outlook
+	2. I remoted the users computer and I verified that the users outlook was offline
+	3. I verified that the users license was expired.
+	4. I told to the user that I need escalate to another team
